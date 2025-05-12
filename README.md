@@ -141,12 +141,13 @@ Publish the website in the given URL.
 ```
 
 # OUTPUT:
-![alt text](<Screenshot 2024-12-23 103859-1.png>) 
-![alt text](<Screenshot 2024-12-23 103916-1.png>) 
-![alt text](<Screenshot 2024-12-23 103930-1.png>) 
-![alt text](<Screenshot 2024-12-23 103946-1.png>)
- ![alt text](<Screenshot 2024-12-23 104001-1.png>)
-  ![alt text](<Screenshot 2024-12-23 104016-1.png>)
+![Screenshot 2025-05-12 184348](https://github.com/user-attachments/assets/865ef424-0e59-4599-8be6-65b7cfca40b2)
+![Screenshot 2025-05-12 184355](https://github.com/user-attachments/assets/d582d431-dbcc-4afa-b9dc-fdb01c6600a5)
+![Screenshot 2025-05-12 184402](https://github.com/user-attachments/assets/dfbce0e3-fef8-4221-a211-b6afe99bc92e)
+![Screenshot 2025-05-12 184410](https://github.com/user-attachments/assets/83227df4-7208-4530-a120-1f3ffc7ffd21)
+![Screenshot 2025-05-12 184418](https://github.com/user-attachments/assets/3792147a-8aef-43de-b7aa-01ae5e9505d4)
+![Screenshot 2025-05-12 184427](https://github.com/user-attachments/assets/75394eb5-6db5-4d89-8e64-2faf0ad69b14)
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
